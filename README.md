@@ -1,0 +1,2 @@
+# PHP-Push-Notification-Android-and-iOS
+This class can send send push notifications to Android and iOS devices.  It can send HTTP requests to the API Web servers of GCM (Google Cloud Messaging) and APNS (Apple Push Notification Service) to send a given push notification message to a specified device with a give registration ID.  The authorization key and the SSL certificate are configurable parameters.
